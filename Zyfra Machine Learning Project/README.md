@@ -1,8 +1,7 @@
 ## Zyfra Machine Learning Project
 
-Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry.
-
 ## Introduction
+Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry.
 The company develops efficiency solutions for heavy industry.
 The model should predict the amount of gold recovered from gold ore. You have the data on extraction and purification.
 
